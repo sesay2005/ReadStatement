@@ -1,0 +1,13 @@
+#!/bin/bash
+#Date:08-12-2020
+#Author:ABS
+
+echo "What is your name?"
+read A
+echo "How old are you?"
+read B
+echo "What is your accupation"
+read C
+echo "What is the name of your curent employer?"
+read D
+echo "My name is $A.I am $B years old.My accupation is $C and am currently working for $D als system engineer"
